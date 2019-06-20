@@ -1,0 +1,1 @@
+C:\Work\Develop\Simple3DGameDX\Simple3DGameDX\Simple3DGameDX\Simple3DGameDX.vcxproj;x64
